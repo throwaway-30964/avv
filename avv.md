@@ -1,8 +1,7 @@
 
 # Abfallschlüssel
 
-## 01 Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der physikalischen und
-chemischen Behandlung von Bodenschätzen entstehen
+## 01 Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der physikalischen und chemischen Behandlung von Bodenschätzen entstehen
 
 ### 01 01 Abfälle aus dem Abbau von Bodenschätzen
 - 01 01 01 Abfälle aus dem Abbau von metallhaltigen Bodenschätzen
